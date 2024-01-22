@@ -2,6 +2,10 @@
 
 
 <h3 align="center"> Sou um Desenvolvedor BackEnd, mergulhado no universo dinâmico da Análise e Desenvolvimento de Sistemas, onde atualmente estou cursando. Minha paixão pela tecnologia e inovação é o motor que impulsiona minha busca constante pelo aprimoramento de habilidades e conhecimentos.
+<h1>
+<h1>
+<h1>
+
 
 Para além do código, encontro equilíbrio em outras paixões. Nas corridas, desafio meus limites físicos, enquanto nos campos de futebol, canalizo minha energia competitiva. Esses hobbies não apenas proporcionam momentos de descontração, mas também contribuem para meu desenvolvimento integral, permitindo que eu encare desafios de diferentes perspectivas.
 
