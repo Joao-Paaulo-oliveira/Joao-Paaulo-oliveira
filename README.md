@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm João Paulo</h1>
 <h3 align="center">Sou um dedicado Desenvolvedor BackEnd, atualmente imerso no universo da Análise e Desenvolvimento como estudante. Minha paixão pela tecnologia e inovação motiva-me a aprimorar continuamente minhas habilidades e conhecimentos.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: joao.ppaulo@hotmail.com  </h3>
 <p align="left">
 </p>
 
