@@ -4,12 +4,16 @@
 <h3 align="center"> Sou um Desenvolvedor BackEnd, mergulhado no universo dinâmico da Análise e Desenvolvimento de Sistemas, onde atualmente estou cursando. Minha paixão pela tecnologia e inovação é o motor que impulsiona minha busca constante pelo aprimoramento de habilidades e conhecimentos.
 <h1>
 <h1>
+
+Para além do código, encontro equilíbrio em outras paixões. Nas corridas, desafio meus limites físicos, enquanto nos campos de futebol, canalizo minha energia competitiva. Esses hobbies não apenas proporcionam momentos de descontração, mas também contribuem para meu desenvolvimento integral, permitindo que eu encare desafios de diferentes perspectivas.
+<h1>
 <h1>
 
 
-Para além do código, encontro equilíbrio em outras paixões. Nas corridas, desafio meus limites físicos, enquanto nos campos de futebol, canalizo minha energia competitiva. Esses hobbies não apenas proporcionam momentos de descontração, mas também contribuem para meu desenvolvimento integral, permitindo que eu encare desafios de diferentes perspectivas.
+<h3>Estou comprometido não apenas com o desenvolvimento profissional, mas também em construir uma base sólida de experiências e habilidades que transcendem o mundo digital. Acredito que essa abordagem holística é fundamental para um crescimento pleno e duradouro.</h3>
+<h1>
+<h1>
 
-Estou comprometido não apenas com o desenvolvimento profissional, mas também em construir uma base sólida de experiências e habilidades que transcendem o mundo digital. Acredito que essa abordagem holística é fundamental para um crescimento pleno e duradouro.</h3>
 
 <h3 align="left">Contato: joao.ppaulo@hotmail.com  </h3>
 <p align="left">
