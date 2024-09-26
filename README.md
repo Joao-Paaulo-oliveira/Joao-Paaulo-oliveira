@@ -1,7 +1,7 @@
 ## Olá, eu sou o João Paulo!  🚀
 
 
-<h3> Sou um Analista de Dados, mergulhado no universo dinâmico da Análise e Desenvolvimento de Sistemas, onde atualmente estou cursando. Minha paixão pela tecnologia e inovação é o motor que impulsiona minha busca constante pelo aprimoramento de habilidades e conhecimentos.</h3>
+<h3> Estudante de Analise de Dados, mergulhado no universo dinâmico da Análise e Desenvolvimento de Sistemas, onde atualmente estou cursando. Minha paixão pela tecnologia e inovação é o motor que impulsiona minha busca constante pelo aprimoramento de habilidades e conhecimentos.</h3>
 <h1>
 
 
