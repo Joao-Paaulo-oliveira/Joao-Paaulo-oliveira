@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º semestre) <br>
   🔍 Em transição para a área de <strong>QA (Quality Assurance)</strong> <br>
-  📍 Raposos - MG, Brasil
+  📍 Belo Horizonte - MG, Brasil
 </p>
 
 ---
