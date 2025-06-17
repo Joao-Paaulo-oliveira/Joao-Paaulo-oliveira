@@ -22,6 +22,7 @@ Atualmente, estou focado em consolidar meus conhecimentos na área de **Testes d
 - **Ferramentas de Teste:**  
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+  ![Gherkin](https://img.shields.io/badge/Gherkin-5FBF00?style=for-the-badge&logo=cucumber&logoColor=white)  
   ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 - **Outros Conhecimentos:**  
@@ -33,8 +34,8 @@ Atualmente, estou focado em consolidar meus conhecimentos na área de **Testes d
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joao-ppaulo&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-ppaulo&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Joao-Paaulo-oliveira&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paaulo-oliveira&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -42,7 +43,7 @@ Atualmente, estou focado em consolidar meus conhecimentos na área de **Testes d
 ### 📫 Contato
 
 - ✉️ joao.ppaulo92@hotmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario-linkedin) *(substitua pelo seu)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/joao-pauloliveira/)
 
 ---
 
