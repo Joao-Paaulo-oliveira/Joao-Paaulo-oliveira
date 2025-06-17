@@ -1,38 +1,51 @@
-## Olá, eu sou o João Paulo!  🚀
+<h1 align="center">Olá! 👋 Eu sou o João Paulo</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+<p align="center">
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º semestre) <br>
+  🔍 Em transição para a área de <strong>QA (Quality Assurance)</strong> <br>
+  📍 Raposos - MG, Brasil
 </p>
 
-<p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+---
+
+### 🚀 Sobre mim
+
+Atualmente, estou focado em consolidar meus conhecimentos na área de **Testes de Software**, tanto manuais quanto automatizados, com o objetivo de contribuir para a qualidade, desempenho e confiabilidade dos sistemas.
+
+### 🧰 Minhas Tecnologias
+
+- **Linguagens:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+- **Ferramentas de Teste:**  
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+  ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+- **Outros Conhecimentos:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joao-ppaulo&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-ppaulo&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
+---
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+### 📫 Contato
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
+- ✉️ joao.ppaulo92@hotmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario-linkedin) *(substitua pelo seu)*
 
-<h3 align="left">Contato: joao.ppaulo@hotmail.com  </h3>
-<p align="left">
-</p>
+---
+
+⚡ *“Buscando crescer e evoluir constantemente na área de tecnologia!”*
+
 
