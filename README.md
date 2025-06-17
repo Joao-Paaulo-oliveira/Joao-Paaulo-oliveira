@@ -10,8 +10,9 @@
 
 ### 🚀 Sobre mim
 
-Atualmente, estou focado em consolidar meus conhecimentos na área de **Testes de Software**, tanto manuais quanto automatizados, com o objetivo de contribuir para a qualidade, desempenho e confiabilidade dos sistemas.
+Em transição para a área de Qualidade de Software (QA), com foco em testes manuais e automação. Participo de uma mentoria na área, desenvolvendo habilidades em criação de casos de teste, reporte de bugs, automação com Cypress e Selenium, e acompanhamento de processos ágeis. Possuo conhecimentos em JavaScript, SQL e testes manuais.
 
+Tenho experiência prévia em suporte técnico, por meio da qual desenvolvi habilidades em análise e resolução de problemas, além de contato com redes e infraestrutura. Sou proativo, focado e busco constante evolução profissiona
 ### 🧰 Minhas Tecnologias
 
 - **Linguagens:**  
