@@ -35,7 +35,7 @@ Tenho experiência prévia em suporte técnico, por meio da qual desenvolvi habi
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Joao-Paaulo-oliveira&show_icons=true&theme=tokyonight" />
+
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paaulo-oliveira&layout=compact&theme=tokyonight" />
 </p>
 
