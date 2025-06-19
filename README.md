@@ -43,7 +43,7 @@ Sou um profissional de tecnologia com experiência prática em **suporte técnic
 
 📞 (31) 99619-4890  
 ✉️ joao.ppaulo92@hotmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil-aqui) *(adicione seu link)*  
+
 
 
 
